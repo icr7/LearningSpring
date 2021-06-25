@@ -1,0 +1,17 @@
+{
+   "id": 7,
+   "firstName": "Ishwar",
+   "lastName": "Chaiser",
+   "active": true,
+   "address":{ 
+              "houseNum":"Chaiser bhawan",
+              "colony": "jai maa bhagwati enclave",
+              "area": "Gobindpur Garwal",
+              "city": "Haldwani",
+              "district":"Nanital",
+              "state": "Uttarakhand",
+              "pincode": 263139
+     
+   },
+   "languages": ["java", "javascript", "C++", "SQL"]
+}
